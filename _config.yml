@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: minimal-world
+description: "This is simple jekyll theme, which as you might have guessed, aims at minimalism"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
